@@ -3,11 +3,11 @@ objectbootcamp
 
 ### Session 1
 
-#### Problem
+##### Problem
 
 * Create a rectangle and compute area of it
 
-#### Lessons Learnt
+##### Lessons Learnt
 
 * Identifying a Job description of a given class
 * Having a class implement one and only one job
