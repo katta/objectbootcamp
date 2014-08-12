@@ -23,7 +23,9 @@ objectbootcamp
 
 ##### Lessons Learnt
 
-* ---
+* IS-A relationship between class and a class, object and a class
+* Simple object construction using static methods on a class
+
 
 ### Session 3
 
@@ -35,5 +37,7 @@ objectbootcamp
 
 ##### Lessons Learnt
 
-* ---
+* Encapsulation
+* Equals and Its principles
+* Fluent interfaces and chain APIs
 
