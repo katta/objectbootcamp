@@ -17,10 +17,23 @@ objectbootcamp
 
 ### Session 2
 
+##### Problem
+
 * Create a square and compute area of it
 
+##### Lessons Learnt
+
+* ---
+
 ### Session 3
+
+##### Problem
 
 * Calculate a probability of __both__ the events(not mutually exclusive) happening.
 * Calculate a probability of __either__ of the two events(not mutually exclusive) happening.
 * Calculate a probability of event __not__ happening.
+
+##### Lessons Learnt
+
+* ---
+
