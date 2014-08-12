@@ -3,11 +3,21 @@ objectbootcamp
 
 ### Session 1
 
-Create a rectangle and compute area of it
+#### Problem
+
+* Create a rectangle and compute area of it
+
+#### Lessons Learnt
+
+* Identifying a Job description of a given class
+* Having a class implement one and only one job
+* Drive it via Tests
+* Tests for more than one value input
+
 
 ### Session 2
 
-Create a square and compute area of it
+* Create a square and compute area of it
 
 ### Session 3
 
