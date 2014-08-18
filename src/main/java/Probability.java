@@ -30,8 +30,8 @@ public class Probability {
         return (int) (temp ^ (temp >>> 32));
     }
 
-    public Probability or(Probability probabilityZeroDotSix) {
-        return this.not().and(probabilityZeroDotSix.not()).not();
+    public Probability or(Probability that) {
+        return this.not().and(that.not()).not();
     }
 
     public Probability not() {
